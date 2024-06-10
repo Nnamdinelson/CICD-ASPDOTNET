@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CICD ASP.DOTNETCORE.props" />
+</Project>

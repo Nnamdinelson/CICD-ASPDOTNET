@@ -1,0 +1,30 @@
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\bin\Debug\net8.0\CICD ASP.DOTNETCORE.staticwebassets.runtime.json
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\bin\Debug\net8.0\CICD ASP.DOTNETCORE.exe
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\bin\Debug\net8.0\CICD ASP.DOTNETCORE.deps.json
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\bin\Debug\net8.0\CICD ASP.DOTNETCORE.runtimeconfig.json
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\bin\Debug\net8.0\CICD ASP.DOTNETCORE.dll
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\bin\Debug\net8.0\CICD ASP.DOTNETCORE.pdb
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\CICD ASP.DOTNETCORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\CICD ASP.DOTNETCORE.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\CICD ASP.DOTNETCORE.AssemblyInfo.cs
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\CICD ASP.DOTNETCORE.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\CICD ASP.DOTNETCORE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\CICD ASP.DOTNETCORE.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\CICD ASP.DOTNETCORE.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\staticwebassets\msbuild.CICD ASP.DOTNETCORE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\staticwebassets\msbuild.build.CICD ASP.DOTNETCORE.props
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CICD ASP.DOTNETCORE.props
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CICD ASP.DOTNETCORE.props
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\scopedcss\bundle\CICD ASP.DOTNETCORE.styles.css
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\scopedcss\projectbundle\CICD ASP.DOTNETCORE.bundle.scp.css
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\CICD ASP.DOTNETCORE.dll
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\refint\CICD ASP.DOTNETCORE.dll
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\CICD ASP.DOTNETCORE.pdb
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\CICD ASP.DOTNETCORE.genruntimeconfig.cache
+C:\Users\PC\Desktop\ASP.NETCORE-CICD\cicdaspdotnet\obj\Debug\net8.0\ref\CICD ASP.DOTNETCORE.dll
